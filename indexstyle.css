@@ -1,0 +1,64 @@
+html {
+  height: 125%;
+}
+
+body {
+  margin: 0;
+  height: 75%;
+  font-family: helvetica;
+  background-image: url("https://media.giphy.com/media/l3V0usRFshl8oedNu/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+
+}
+
+a {
+  color: #fff;
+}
+
+header {
+  background-image: url("http://cdn.osxdaily.com/wp-content/uploads/2012/12/usa-at-night-wallpaper.jpeg");
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+nav {
+  width: 200px;
+  height: 125%;
+  float: left;
+  background: #444;
+  margin-right: 20px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  width: 500px;
+  float: left;
+  padding: 5px;
+}
+
+section {
+  width: 70%;
+  float: left;
+  padding: 5px;
+}
+
+section p.img-container {
+  text-align: center;
+}
+
+section p{
+  font-family: Snell Roundhand, cursive;
+}
+
+footer {
+  clear: left;
+  padding: 10px;
+  background: royalblue;
+  text-align: center;
+}

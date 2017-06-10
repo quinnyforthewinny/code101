@@ -1,0 +1,75 @@
+html {
+  height: 125%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+  background-image: url("http://www.007.com/wp-content/uploads/2014/01/Daniel-Craig-james-bond-BW.jpg");
+  background-size: 100% 150%;
+  background-repeat: no-repeat;
+}
+
+a {
+  color: white;
+}
+
+a.link {
+  color: blue;
+}
+
+p {
+  color: black;
+}
+
+section p.name {
+  font-weight: bold;
+}
+
+section img.p {
+  text-align: center;
+}
+
+header {
+  background: #888;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+nav {
+  width: 200px;
+  height: 125%;
+  float: left;
+  background: #444;
+  margin-right: 20px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  width: 500px;
+  float: left;
+  padding: 5px;
+  color: white;
+}
+
+section {
+  width: 500px;
+  float: left;
+  padding: 5px;
+}
+
+section img.p {
+  text-align: center;
+}
+
+footer {
+  clear: left;
+  padding: 10px;
+  background: royalblue;
+  text-align: center;
+}

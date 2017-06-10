@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+}
+
+a {
+  color: lightblue;
+}
+
+header {
+  padding: 10px;
+  background: orange;
+  color: red;
+  text-align: center;
+}
+
+nav {
+  width: 100px;
+  height: 100%;
+  float: left; /* don't modify */
+  background-color: blue;
+  margin-right: 20px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin-bottom: 40px;
+}
+
+section {
+  width: 500px;
+  float: left; /* don't modify */
+  padding: 5px;
+}
+
+footer {
+  clear: left; /* don't modify */
+  padding: 10px;
+  background: lightblue;
+  text-align: ;
+}
